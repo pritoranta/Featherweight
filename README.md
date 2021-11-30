@@ -9,3 +9,5 @@ The skybox ("Fantasy Skybox") is a free asset from Unity Asset Store. A Readme w
 Only the Android build is included because of the hefty amount of files Unity builds on other platforms come with. The .apk file is downloadable and runnable, if it is seen as safe enough.
 
 I uploaded a small video clip of the game in action to Imgur: [https://imgur.com/a/PLTTPkK]
+
+The game is controlled by clicking and dragging, both on desktop and mobile.
